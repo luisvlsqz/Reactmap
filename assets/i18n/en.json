@@ -1,0 +1,11 @@
+{
+  "locale": "en-us",
+  "Login": {
+    "locale": "en",
+    "Usuario Correo": "User Mail",
+    "Clave": "Password",
+    "Ingresar": "Log in",
+    "¿Olvidó su clave?": "Forgot your password",
+    "IDIOMA": "LANGUAGE"
+  }
+}

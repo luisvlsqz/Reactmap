@@ -1,0 +1,11 @@
+{
+  "locale": "es-ve",
+  "Login": {
+    "locale": "es",
+    "Usuario Correo": "Usuario Correo",
+    "Clave": "Clave",
+    "Ingresar": "Ingresar",
+    "¿Olvidó su clave?": "Olvidó su clave ",
+    "IDIOMA": "IDIOMA"
+  }
+}
